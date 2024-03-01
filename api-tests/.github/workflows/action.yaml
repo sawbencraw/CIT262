@@ -1,4 +1,4 @@
-name: Test Login Endpoint
+name: Test Login Endpoints
 
 on: [push]
 
